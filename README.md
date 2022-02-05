@@ -19,3 +19,5 @@ Not assinged
 Activity 6:
 Create a static portfolio page with Laravel, Tailwind/Bootstrap utilizing routing,
 controllers and blade templates.
+https://github.com/Godsk-glitch/Assingment/blob/master/activity%206/screenshot/sks.png
+
