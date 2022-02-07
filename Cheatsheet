@@ -12,3 +12,8 @@ php artisan make:compnent Header
 //will be created under resources->view->component->header.blade.php
 
 <------------------------------------------------------------------------------------------------->
+//To create a controller
+php artisan make:controller UserController
+//will be created under app->HTTP->Controllers->userControllers.php
+
+<------------------------------------------------------------------------------------------------->
