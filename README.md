@@ -5,7 +5,7 @@
 💠𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝑽𝒂𝒏𝒊𝒍𝒍𝒂𝑱𝑺 <br>
 💠𝑷𝑯𝑷, 𝑴𝒚𝑺𝑸𝑳 𝒂𝒏𝒅 𝑳𝒂𝒓𝒂𝒗𝒆𝒍 <br>
 
-# Assingment
+# Assingments
 ☑️Activity 1:
 Here i have put all the files that i have worked on using (HTML, CSS, Bootstrap, Tailwind CSS,Laravel ).<br>
 🟢 https://github.com/Godsk-glitch/Assingment/tree/master/Login%20page 
