@@ -1,0 +1,16 @@
+Laravel
+
+//To create a new project in Laravel using composer
+
+composer create-project laravel/laravel example-app <br>
+
+cd example-app  <br>
+
+php artisan serve <br>
+
+
+
+
+//To create a component
+php artisan make:compnent Header
+//will be created under resources->view->component->header.blade.php
