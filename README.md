@@ -1,6 +1,6 @@
 # Assingment
 Activity 1:
-Here i have put all the files that i have worked on using (HTML, CSS, Bootstrap, Tailwind CSS ).
+Here i have put all the files that i have worked on using (HTML, CSS, Bootstrap, Tailwind CSS,Laravel ).
 
 Actvity 2:
 Creating a repository on Github with the project files of Activity I & setting up a
