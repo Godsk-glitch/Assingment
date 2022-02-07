@@ -21,8 +21,8 @@ Must create a basic php app, where registration, login, profile view and profile
 edit are functional.<br>
 🟢https://github.com/Godsk-glitch/Assingment/tree/master/activity4
 
-Actvity 5:
-Not assinged 
+❌Actvity 5:<br>
+🔴Not assinged 
 
 ☑️Activity 6:
 Create a static portfolio page with Laravel, Tailwind/Bootstrap utilizing routing,
