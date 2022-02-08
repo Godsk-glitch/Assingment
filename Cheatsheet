@@ -24,3 +24,15 @@ php artisan make:middleware ageCheck
 //will be created under app->HTTP->MiddleWare->ageCheck.php
 
 <------------------------------------------------------------------------------------------------->
+
+//To make a model
+php artisan make:model user
+
+//always rememebr in case of model is lural to singular eh. users ---- user
+// always capatalize the letter of the file
+// will be created under app->Models->User.php
+
+Note:-if file is already created theen delete it and create a new one.
+
+<--------------------------------------------------------------------------------------------------->
+
