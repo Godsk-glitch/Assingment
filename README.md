@@ -28,11 +28,19 @@ Must create a basic php app, where registration, login, profile view and profile
 edit are functional.<br>
 🟢https://github.com/Godsk-glitch/Assingment/tree/master/activity4
 
-❌Actvity 5:<br>
-🔴Not assinged 
+❌ Actvity 5:<br>
+🔴 Not assinged 
 
 ☑️Activity 6:
 Create a static portfolio page with Laravel, Tailwind/Bootstrap utilizing routing,
 controllers and blade templates.<br>
 🟢https://github.com/Godsk-glitch/Assingment/blob/master/activity%206/screenshot/sks.png
+  
+☑️Activity 7:
+Prepare an artificial college database which seeds 50,000+ data points of
+Students, Teachers , Assignments, Marks. Each model must be referenced using
+relationships. Models, Migrations, Seeders and Factories must be used.  
+🟢https://github.com/Godsk-glitch/Assingment/tree/master/activity7  
+🟢https://github.com/Godsk-glitch/Assingment/tree/master/activity7/Sceenshots
+  
 
