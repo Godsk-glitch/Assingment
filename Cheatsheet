@@ -36,3 +36,11 @@ Note:-if file is already created theen delete it and create a new one.
 
 <--------------------------------------------------------------------------------------------------->
 
+//  To seed fake data using 🆃🅸🅽🅺🅴🆁
+
+//Adding data to table
+UsersModel::factory()->count(10)->create();
+
+//Delete data from table
+DB::table('users_models')->truncate(); 
+
